@@ -31,12 +31,12 @@ export default function Home() {
             <section className="flex flex-col py-24 px-10 lg:px-0 lg:container lg:mx-auto justify-center border-8 border-black my-10">
                 <h2 className="flex text-3xl mb-4 font-bold justify-center">About</h2>
                 <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto">
-                    Will Luttrell is an experienced product and technology leader with expertise spanning digital marketing, big data, and creative problem solving.
+                    {`Will Luttrell is an experienced product and technology leader with expertise spanning digital marketing, big data, and creative problem solving.
                     As a founder and executive of multiple startups including Integral Ad Science, Amino Payments, and The Brandtech Group, Will has a proven track record of building successful companies from the ground up.
                     He holds 4 patents related to digital advertising and has served on the boards of several companies and nonprofits.
                     Will's core focus areas include adtech, martech, blockchain, payments, and SaaS.
                     He brings a unique blend of technical skills, entrepreneurial drive, and strategic vision. Will advises organizations on product, technology, and growth strategies.
-                    He is an insightful leader dedicated to building innovative products that deliver real value.
+                    He is an insightful leader dedicated to building innovative products that deliver real value.`}
                 </p>
             </section>
 

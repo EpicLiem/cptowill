@@ -8,6 +8,7 @@ export default function Robot() {
     return (
         <div className="flex justify-center robotcontainer">
             <Image src="/logonoeyes.png" alt="" width="400" height="400" className="pixelart absolute robot " id="anchor" />
+            {/* eslint-disable-next-line @next/next/no-sync-scripts */}
             <script src="/robot.js"></script>
             <div className="eyes">
                 <Image src="/eye.png" alt="" width="200" height="200" className="pixelart absolute eye right" />
