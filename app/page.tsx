@@ -24,7 +24,7 @@ export default function Home() {
                     <h1 className="text-4xl font-bold lg:text-6xl">Will Luttrell</h1>
                     <p className="mt-4 text-xl text-gray-600">Product & Technology Leader</p>
                 </div>
-                <Image src="/cptowilllogo.png" alt="" width="400" height="400" className="pixelart bottom-24 right-10 absolute"/>
+                <Image src="/cptowilllogo.png" alt="" width="400" height="400" className="pixelart logo"/>
 
             </section>
 

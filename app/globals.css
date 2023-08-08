@@ -17,23 +17,42 @@ body {
   image-rendering: pixelated;
 }
 .eye {
-    top : 44%;
+    top : 25%;
     position: absolute;
 }
 .eye.left {
-    left: 30%;
+    left: 10%;
+    width: 50%;
+    height: 50%;
 }
 .eye.right {
-    right: 30%;
+    right: 10%;
+    width: 50%;
+    height: 50%;
 }
 .robot {
-    position: relative;
+    position: absolute;
+    width: 75%;
+    height: 75%;
 }
 
 .robotcontainer {
     position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
+    width: 75%;
+    height: 75%;
+    top: 0%;
+    left: 0%;
+}
+
+.logo {
+    position: absolute;
+    bottom: 13%;
+    right: 7%;
+}
+
+@media (max-width: 768px) {
+    .logo {
+        position: relative;
+    }
+
 }
