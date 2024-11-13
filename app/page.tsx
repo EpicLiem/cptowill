@@ -33,13 +33,7 @@ export default function Home() {
                 <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto">
                     {`Will Luttrell is a seasoned product and technology leader with a long track record of innovation and strategic vision in digital marketing, big data, and advanced technologies. He has been a founder or executive at pioneering firms such as Integral Ad Science (NASDAQ: IAS), Amino Payments (acquired by IAS in 2021), and The Brandtech Group, where he has spearheaded industry-shaping initiatives and led product and technology diligence on acquisitions like Jellyfish, Acorn-i, and Pencil.ai. Will is also a value-add angel investor in impactful startups, including Leagueside (acquired by Teamsnap), Pipedream, Ad Fontes, Symetri, and Swym. He has advised on venture investments in several companies, including early stage successful guidance on The Trade Desk (NASDAQ: TTD) and Innovid (NYSE: CTV), and serves on various profit and nonprofit boards.`}
                 </p>
-                <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto">
-                    {' '}
-                </p>
-                <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto">
-                    {' '}
-                </p>
-                <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto">
+                <p className="flex text-gray-600 w-2/3 justify-center text-center mt-8">
                     {`The author of four patents in digital media, Will's technological expertise is marked by both ingenuity and scale. His proficiency spans adtech, martech, blockchain, payments, and SaaS, and he excels at blending technical mastery with entrepreneurial energy to drive growth and innovation. Will advises organizations on product, technology, and growth strategies, with a focus on creating impactful products that deliver real value. His leadership and insights make him a trusted partner in navigating today’s complex digital landscape.`}
                 </p>
             </section>
