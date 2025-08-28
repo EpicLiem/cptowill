@@ -28,16 +28,19 @@ export default function Home() {
 
             </section>
 
-            <section className="flex flex-col py-24 px-10 lg:px-0 lg:container lg:mx-auto justify-center border-8 border-black my-10">
-                <h2 className="flex text-3xl mb-4 font-bold justify-center">About</h2>
-                <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto">
+            <section className="flex flex-col py-24 px-10 lg:px-0 lg:container lg:mx-auto border-8 border-black my-10">
+                <h2 className="text-3xl mb-4 font-bold text-center">About</h2>
+                <p className="text-gray-600 w-2/3 mx-auto">
                     {`Veteran product and technology leader with multiple successful exits and a 30 year track record of building transformative companies. Founder of Integral Ad Science (NASDAQ: IAS) and Amino Payments (acquired by IAS); former executive at The Brandtech Group, where he led technical diligence for acquisitions including Jellyfish, Pencil.ai, and Acorn-i.`}
                 </p>
-                <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto mt-10">
+                <p className="text-gray-600 w-2/3 mx-auto mt-10">
                     {`Will is a value-add angel investor in high-growth startups such as Leagueside (acquired by TeamSnap), Pipedream, Ad Fontes, Swym.ai, and Symetri, and has advised early investments in The Trade Desk (NASDAQ: TTD) and Innovid (NYSE: CTV).`}
                 </p>
-                <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto mt-10">
+                <p className="text-gray-600 w-2/3 mx-auto mt-10">
                     {`With four patents in deep technical topics (fraud detection, firewall design, payments tracking, media metrics) and deep expertise across digital media, big data, AI, and SaaS, Will blends technical fluency, strategic insight, and operational discipline. His leadership is grounded in shipping real product, scaling teams, and creative solutions to intractable problems.`}
+                </p>
+                <p className="text-gray-600 w-2/3 mx-auto mt-10">
+                    {`Will is currently CEO of Honeycake, where he is leading the company's mission to make document security easy and ubiquitous.`}
                 </p>
             </section>
 
