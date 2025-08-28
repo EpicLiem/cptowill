@@ -31,10 +31,13 @@ export default function Home() {
             <section className="flex flex-col py-24 px-10 lg:px-0 lg:container lg:mx-auto justify-center border-8 border-black my-10">
                 <h2 className="flex text-3xl mb-4 font-bold justify-center">About</h2>
                 <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto">
-                    {`Will Luttrell is a seasoned product and technology leader with a long track record of innovation and strategic vision in digital marketing, big data, and advanced technologies. He has been a founder or executive at pioneering firms such as Integral Ad Science (NASDAQ: IAS), Amino Payments (acquired by IAS in 2021), and The Brandtech Group, where he has spearheaded industry-shaping initiatives and led product and technology diligence on acquisitions like Jellyfish, Acorn-i, and Pencil.ai. Will is also a value-add angel investor in impactful startups, including Leagueside (acquired by Teamsnap), Pipedream, Ad Fontes, Symetri, and Swym. He has advised on venture investments in several companies, including early stage successful guidance on The Trade Desk (NASDAQ: TTD) and Innovid (NYSE: CTV), and serves on various profit and nonprofit boards.`}
+                    {`Veteran product and technology leader with multiple successful exits and a 30 year track record of building transformative companies. Founder of Integral Ad Science (NASDAQ: IAS) and Amino Payments (acquired by IAS); former executive at The Brandtech Group, where he led technical diligence for acquisitions including Jellyfish, Pencil.ai, and Acorn-i.`}
                 </p>
                 <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto mt-10">
-                    {`The author of four patents in digital media, Will's technological expertise is marked by both ingenuity and scale. His proficiency spans adtech, martech, blockchain, payments, and SaaS, and he excels at blending technical mastery with entrepreneurial energy to drive growth and innovation. Will advises organizations on product, technology, and growth strategies, with a focus on creating impactful products that deliver real value. His leadership and insights make him a trusted partner in navigating today’s complex digital landscape.`}
+                    {`Will is a value-add angel investor in high-growth startups such as Leagueside (acquired by TeamSnap), Pipedream, Ad Fontes, Swym.ai, and Symetri, and has advised early investments in The Trade Desk (NASDAQ: TTD) and Innovid (NYSE: CTV).`}
+                </p>
+                <p className="flex text-gray-600 w-2/3 justify-center text-center mx-auto mt-10">
+                    {`With four patents in deep technical topics (fraud detection, firewall design, payments tracking, media metrics) and deep expertise across digital media, big data, AI, and SaaS, Will blends technical fluency, strategic insight, and operational discipline. His leadership is grounded in shipping real product, scaling teams, and creative solutions to intractable problems.`}
                 </p>
             </section>
 
