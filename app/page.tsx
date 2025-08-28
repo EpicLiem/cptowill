@@ -48,7 +48,7 @@ export default function Home() {
             <section className="bg-white py-24 px-10 lg:px-0 lg:container lg:mx-auto my-10">
 
                 <div className="flex justify-center">
-                    <a href="/robot" className="mx-6 transition hover:opacity-75">
+                    <a href="https://honeycakeapp.com" className="mx-6 transition hover:opacity-75">
                         <Image
                             src="/cptowilllogo.png"
                             width={48}
