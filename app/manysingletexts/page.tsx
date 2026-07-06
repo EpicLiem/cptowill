@@ -117,8 +117,8 @@ export default function ManySingleTexts() {
                 <h2 className="text-3xl mb-4 font-bold text-center">Support</h2>
                 <p className="text-gray-600 w-2/3 mx-auto text-center">
                     Questions, bugs, or feature ideas? Email{" "}
-                    <a href="mailto:will@honeycakefiles.com" className="underline">
-                        will@honeycakefiles.com
+                    <a href="mailto:will@cptowill.com" className="underline">
+                        will@cptowill.com
                     </a>{" "}
                     and include your iOS version and what you were doing when the problem
                     happened.

@@ -75,8 +75,8 @@ export default function ManySingleTextsPrivacy() {
                         <h2 className="font-bold text-gray-900 text-xl">Contact</h2>
                         <p>
                             Questions:{" "}
-                            <a href="mailto:will@honeycakefiles.com" className="underline">
-                                will@honeycakefiles.com
+                            <a href="mailto:will@cptowill.com" className="underline">
+                                will@cptowill.com
                             </a>
                         </p>
                     </div>
